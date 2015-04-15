@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n cv
+web: bin/hubot -a slack
