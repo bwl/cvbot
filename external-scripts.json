@@ -15,5 +15,6 @@
   "hubot-plusplus",
   "hubot-fliptable",
   "hubot-github-identity",
-  "hubot-github-issues"
+  "hubot-github-issues",
+  "hubot-github-create-issues"
 ]

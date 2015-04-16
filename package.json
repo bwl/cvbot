@@ -9,6 +9,7 @@
     "hubot-business-cat": "^1.1.19",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "^1.2.0",
+    "hubot-github-create-issues": "0.0.5",
     "hubot-github-identity": "^0.9.1",
     "hubot-github-issues": "^0.1.1",
     "hubot-google-images": "^0.1.4",
