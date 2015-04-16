@@ -16,5 +16,6 @@
   "hubot-fliptable",
   "hubot-github-identity",
   "hubot-github-issues",
-  "hubot-github-create-issues"
+  "hubot-github-create-issues",
+  "hubot-newrelic"
 ]
