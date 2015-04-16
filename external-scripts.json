@@ -13,5 +13,7 @@
   "hubot-thank-you",
   "hubot-business-cat",
   "hubot-plusplus",
-  "hubot-fliptable"
+  "hubot-fliptable",
+  "hubot-github-identity",
+  "hubot-github-issues"
 ]
