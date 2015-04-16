@@ -8,6 +8,7 @@
     "hubot": "^2.12.0",
     "hubot-business-cat": "^1.1.19",
     "hubot-diagnostics": "0.0.1",
+    "hubot-epichal": "^0.1.2",
     "hubot-fliptable": "^1.2.0",
     "hubot-github-create-issues": "0.0.5",
     "hubot-github-identity": "^0.9.1",
