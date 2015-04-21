@@ -18,5 +18,7 @@
   "hubot-github-issues",
   "hubot-github-create-issues",
   "hubot-newrelic2",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-caniuse",
+  "hubot-reactions"
 ]
